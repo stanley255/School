@@ -1,4 +1,5 @@
 # FEI STU
+
 ## BACHELOR PROGRAM IN APPLIED INFORMATICS
 
 Collection of school assignments and projects that I coded
@@ -9,8 +10,6 @@ Collection of school assignments and projects that I coded
 * how to work with pointers and references
 * a lot of language specific features
 
-#
-#
 ---
 ### First Semester
 * [B-PROG1]() - Python Course - basic algorithms, loops, conditions, etc.
