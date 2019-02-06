@@ -1,0 +1,4 @@
+Ahoj!
+Toto je jednoduchy
+textovy
+subor :)

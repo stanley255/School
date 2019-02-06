@@ -1,0 +1,3 @@
+﻿  fight.c
+c:\users\speka\desktop\prog2\zadania\zadanie_10\project1\fight.c(165): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Zadania\Zadanie_10\Project1\Debug\Project1.exe

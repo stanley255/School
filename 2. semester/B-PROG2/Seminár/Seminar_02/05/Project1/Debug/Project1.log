@@ -1,0 +1,2 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\seminar\seminar_02\05\project1\project1\source.c(18): error C4700: uninitialized local variable 'c_last' used

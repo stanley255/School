@@ -1,0 +1,1 @@
+/usr/bin/cc -g  -Wl,--enable-auto-import CMakeFiles/06.dir/main.c.o  -o 06.exe -Wl,--out-implib,lib06.dll.a -Wl,--major-image-version,0,--minor-image-version,0 

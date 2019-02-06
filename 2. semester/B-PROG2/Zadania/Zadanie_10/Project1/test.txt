@@ -1,0 +1,32 @@
+END TIME:1.5.2018 21:57:59
+**********************************************************
+
+
+*****ZVITAZIL HRAC PLAYER_A*****
+
+
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+
+---------PLAYER_A-va armada---------
+   Total damage dealt:  32
+   Pocet vojakov po bitke: 0
+
+---------PLAYER_B-va armada---------
+   Total damage dealt:  50
+   Pocet vojakov po bitke: 1
+
+Dalsie statistiky:
+   Celkovy pocet kol: 9
+   Najkratsie kolo(pocet tahov): 2
+   Najdlhsie kolo(pocet tahov): 10
+   
+Vojak, ktory vydrzal najviac kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan |-7 | 2 | 4 |    tank |
+   
+Vojak, ktory vydrzal najmenej kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol |-4 | 9 | 1 |   rogue |

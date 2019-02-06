@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\prednasky\05\project1\project1\source.c(9): warning C4474: 'printf' : too many arguments passed for format string
+  c:\users\speka\desktop\prog2\prednasky\05\project1\project1\source.c(9): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Prednasky\05\Project1\Debug\Project1.exe

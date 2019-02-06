@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\seminar\seminar_09\project1\source.c(71): warning C4047: 'return': 'int' differs in levels of indirection from 'void *'
+c:\users\speka\desktop\prog2\seminar\seminar_09\project1\source.c(142): warning C4018: '<': signed/unsigned mismatch
+c:\users\speka\desktop\prog2\seminar\seminar_09\project1\source.c(153): warning C4716: 'combineTwoString': must return a value
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Seminar\Seminar_09\Project1\Debug\Project1.exe

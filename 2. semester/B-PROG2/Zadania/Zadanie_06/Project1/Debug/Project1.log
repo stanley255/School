@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\zadania\zadanie_06\project1\project1\source.c(44): warning C4101: 'pocetRiadkov': unreferenced local variable
+c:\users\speka\desktop\prog2\zadania\zadanie_06\project1\project1\source.c(162): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\speka\desktop\prog2\zadania\zadanie_06\project1\project1\source.c(98): warning C4715: 'zistiIndex': not all control paths return a value
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Zadania\Zadanie_06\Project1\Debug\Project1.exe

@@ -1,0 +1,2034 @@
+START TIME:25.4.2018 21:2:27
+**********************************************************
+
+VOJSKO HRACA: Stano
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: Palo
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 1 | 3 | 2 |  priest |
+
+********************************************
+
+2. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 1 | 3 | 2 |  priest |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 1 | 3 | 2 |  priest |
+
+********************************************
+
+3. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 4 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 1 | 3 | 2 |  priest |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 5 | 3 |   rogue |
+
+********************************************
+
+4. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 5 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 7 | 1 |   rogue |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 6 | 3 |   rogue |
+
+********************************************
+
+5. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 6 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 7 | 3 |   rogue |
+
+********************************************
+
+6. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 7 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 6 | 2 | 3 | warrior |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 8 | 3 |   rogue |
+
+********************************************
+
+7. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 3 | 8 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 6 | 4 | 4 |   rogue |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 4 | 9 | 3 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:9:29
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 2 | 4 | 2 |   rogue |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 2 | 4 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 2 | 4 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 2 | 4 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |       Karolina | 1 | 4 | 1 |  priest |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |       Karolina | 1 | 4 | 1 |  priest |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 1 | 1 | 4 |    tank |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 7 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 1 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 7 | 2 | 3 |    tank |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 7 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 6 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 1 | 2 | 4 |    tank |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 1 | 2 | 4 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 9 | 1 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 9 | 1 | 4 |   rogue |
+
+********************************************
+
+8. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 9 | 1 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 9 | 1 | 4 |   rogue |
+
+********************************************
+
+9. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 3 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 9 | 1 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 4 | 3 | 3 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:17:44
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 1 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 6 | 5 | 2 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 6 | 5 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 6 | 2 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 6 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 7 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 7 | 2 | warrior |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 7 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 7 | 3 | warrior |
+
+********************************************
+START TIME:30.4.2018 19:19:15
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 1 | 4 | 3 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 1 | 4 | 3 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 2 | 4 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 2 | 4 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 3 | 2 | 4 |    tank |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 3 | 2 | 4 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 8 | 1 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 6 | 8 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 | 9 | 2 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 | 9 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 |10 | 2 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:32:27
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 1 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 2 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 4 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 4 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 3 | 4 | warrior |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 6 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 3 | 4 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 7 | 3 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 7 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 6 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 8 | 3 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 9 | 3 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:34:33
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 4 | 3 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 4 | 3 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 3 | 3 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 3 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 8 | 1 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 6 | 8 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 | 9 | 2 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 | 9 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 7 |10 | 2 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:36:53
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 3 | 3 | 2 |  priest |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 4 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 3 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 5 | 3 |   rogue |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 5 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 6 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 6 | 3 |   rogue |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 6 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 7 | 3 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 7 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 8 | 3 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 6 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 9 | 3 |   rogue |
+
+********************************************
+START TIME:30.4.2018 19:41:36
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 1 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 4 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 5 | 3 |   rogue |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 5 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 6 | 3 |   rogue |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 5 | 6 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 6 | 8 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 7 | 3 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 7 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 6 | 5 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 8 | 3 |   rogue |
+
+********************************************
+START TIME:1.5.2018 21:51:50
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 6 | 5 | 1 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 6 | 5 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 2 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 5 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 6 | 2 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 6 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 7 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 7 | 2 | warrior |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 7 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 9 | 3 |   rogue |
+
+********************************************
+START TIME:1.5.2018 21:54:12
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 2 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 4 | 3 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 4 | 3 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 4 | 4 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 4 | 4 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 7 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 4 | warrior |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 4 | 5 | 4 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 1 | 4 | 4 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 1 | 4 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 9 | 3 |   rogue |
+
+********************************************
+START TIME:1.5.2018 21:55:53
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 1 | 5 | 2 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 1 | 5 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 4 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 7 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 4 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 1 | 2 | 4 |    tank |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 1 | 2 | 4 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 8 | 1 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 6 | 7 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 3 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 8 | 3 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 7 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+********************************************
+
+8. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |       Karolina | 7 | 4 | 1 |  priest |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 1 | 6 | 4 |   rogue |
+
+********************************************
+
+9. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |        Mikulas | 6 | 9 | 2 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 1 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 1 | 6 | 4 |   rogue |
+
+********************************************
+START TIME:2.5.2018 8:27:39
+**********************************************************
+
+VOJSKO HRACA: Stano
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |        Sermiar | 3 | 3 | 4 | warrior |
+ 2 |    Lukostrelec | 4 | 4 | 3 |   rogue |
+ 3 |       Kopijnik | 5 | 3 | 3 |    tank |
+ 4 |         Rytier | 5 | 3 | 3 | warrior |
+ 5 |      Vlajkonos | 3 | 2 | 6 |  priest |
+
+
+VOJSKO HRACA: Palo
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |         Rytier | 5 | 3 | 3 | warrior |
+ 2 |         Jazdec | 4 | 3 | 4 | warrior |
+ 3 | Obrneny jazdec | 7 | 2 | 4 |    tank |
+ 4 |            Mag | 4 | 4 | 3 |  priest |
+ 5 |      Vlajkonos | 3 | 2 | 6 |  priest |
+
+
+1. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |        Sermiar | 3 | 3 | 4 | warrior |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |      Vlajkonos | 3 | 2 | 6 |  priest |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |        Sermiar | 3 | 4 | 4 | warrior |
+
+********************************************
+
+2. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |        Sermiar | 3 | 4 | 4 | warrior |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 4 | 3 | 4 | warrior |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 4 | 4 | 4 | warrior |
+
+********************************************
+
+3. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |      Vlajkonos | 3 | 2 | 6 |  priest |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 4 | 4 | 4 | warrior |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 2 | 5 | 4 | warrior |
+
+********************************************
+
+4. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |       Kopijnik | 6 | 3 | 3 |    tank |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 2 | 5 | 4 | warrior |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 3 | 5 | 5 | warrior |
+
+********************************************
+
+5. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |    Lukostrelec | 4 | 4 | 3 |   rogue |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 3 | 5 | 5 | warrior |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 3 | 5 | 6 | warrior |
+
+********************************************
+
+6. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |         Rytier | 6 | 3 | 3 | warrior |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |         Jazdec | 3 | 5 | 6 | warrior |
+
+Suboj vyhral Stano s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |         Rytier | 6 | 3 | 4 | warrior |
+
+********************************************
+
+7. kolo
+
+Stano si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |         Rytier | 6 | 3 | 4 | warrior |
+
+Palo si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |         Rytier | 7 | 3 | 3 | warrior |
+
+Suboj vyhral Palo s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |         Rytier | 7 | 3 | 4 | warrior |
+
+********************************************
+START TIME:2.5.2018 8:31:18
+**********************************************************
+
+VOJSKO HRACA: PLAYER_A
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+ 2 |          Dusan | 5 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 2 | 3 |   rogue |
+ 4 |       Karolina | 5 | 4 | 1 |  priest |
+ 5 |        Mikulas | 5 | 3 | 2 |   rogue |
+
+
+VOJSKO HRACA: PLAYER_B
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+ 4 |          Pavol | 5 | 4 | 1 |   rogue |
+ 5 |          Tomas | 5 | 1 | 4 |   rogue |
+
+
+1. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 1 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Roman | 5 | 3 | 2 |  priest |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 2 | warrior |
+
+********************************************
+
+2. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 5 | 4 | 2 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |       Veronika | 5 | 1 | 4 |    tank |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 3 | warrior |
+
+********************************************
+
+3. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 2 | 4 | 3 | warrior |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 2 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 3 | 3 | warrior |
+
+********************************************
+
+4. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 5 | 3 | 3 | warrior |
+
+Suboj vyhral PLAYER_B s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 4 | 3 | warrior |
+
+********************************************
+
+5. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 6 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas | 1 | 4 | 3 | warrior |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 7 | 3 |   rogue |
+
+********************************************
+
+6. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 7 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 4 |          Pavol | 5 | 9 | 1 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 8 | 3 |   rogue |
+
+********************************************
+
+7. kolo
+
+PLAYER_A si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 8 | 3 |   rogue |
+
+PLAYER_B si zvolil: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 5 |          Tomas | 5 | 6 | 4 |   rogue |
+
+Suboj vyhral PLAYER_A s: 
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 9 | 3 |   rogue |
+
+********************************************

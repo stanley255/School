@@ -1,0 +1,6 @@
+Name 		Age 	Weight(kg)
+------------------------------
+Karol 		25 		84.69
+Michal 		36 		52.30
+Natalia		41 		90.12
+Tomas 		17 		70.51

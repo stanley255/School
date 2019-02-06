@@ -1,0 +1,12 @@
+PLAYER_A
+	Peter 5 4 1 warrior
+	Dusan 5 2 3 tank
+	Milan 5 2 3 rogue
+	Karolina 5 4 1 priest
+	Mikulas 5 3 2 rogue
+PLAYER_B
+	Roman 5 3 2 priest
+	Veronika 5 1 4 tank
+	Lukas 5 2 3 warrior
+	Pavol 5 4 1 rogue
+	Tomas 5 1 4 rogue

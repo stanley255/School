@@ -1,0 +1,37 @@
+END TIME:1.5.2018 21:44:18
+**********************************************************
+
+
+*****ZVITAZIL HRAC PLAYER_A*****
+
+
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 8 | 2 | warrior |
+ 2 |          Dusan | 6 | 2 | 3 |    tank |
+ 3 |          Milan | 5 | 7 | 3 |   rogue |
+ 4 |       Karolina | 7 | 4 | 1 |  priest |
+ 5 |        Mikulas | 6 | 8 | 2 |   rogue |
+
+---------PLAYER_A-va armada---------
+   Total damage dealt:  40
+   Pocet vojakov po bitke: 5
+
+---------PLAYER_B-va armada---------
+   Total damage dealt:   3
+   Pocet vojakov po bitke: 0
+
+Dalsie statistiky:
+   Celkovy pocet kol: 5
+   Najkratsie kolo(pocet tahov): 2
+   Najdlhsie kolo(pocet tahov): 12
+   
+Vojak, ktory vydrzal najviac kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 1 |          Peter | 3 | 8 | 2 | warrior |
+   
+Vojak, ktory vydrzal najmenej kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas |   | 3 | 3 | warrior |

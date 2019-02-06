@@ -1,0 +1,4 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\seminar\seminar_06\04\project1\source.c(68): warning C4101: 'temp': unreferenced local variable
+c:\users\speka\desktop\prog2\seminar\seminar_06\04\project1\source.c(91): warning C4101: 'temp': unreferenced local variable
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Seminar\Seminar_06\04\Project1\Debug\Project1.exe

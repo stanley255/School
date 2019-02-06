@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\speka\desktop\api\uloha_17\project1\project1\source.c(29): warning C4013: 'abs' undefined; assuming extern returning int
+c:\users\speka\desktop\api\uloha_17\project1\project1\source.c(81): warning C4101: 'cislo': unreferenced local variable
+c:\users\speka\desktop\api\uloha_17\project1\project1\source.c(77): warning C4715: 'vypis': not all control paths return a value
+  Project1.vcxproj -> C:\Users\speka\Desktop\API\Uloha_17\Project1\Debug\Project1.exe

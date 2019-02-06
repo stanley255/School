@@ -1,0 +1,6 @@
+﻿  Source.cpp
+c:\users\speka\desktop\api\uloha_14\project1\project1\source.cpp(19): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\speka\desktop\api\uloha_14\project1\project1\source.cpp(19): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 2 has type 'char **'
+c:\users\speka\desktop\api\uloha_14\project1\project1\source.cpp(19): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 3 has type 'char **'
+c:\users\speka\desktop\api\uloha_14\project1\project1\source.cpp(18): warning C4101: 'i': unreferenced local variable
+  Project1.vcxproj -> C:\Users\speka\Desktop\API\Uloha_14\Project1\Debug\Project1.exe

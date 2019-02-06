@@ -1,0 +1,11 @@
+FFF=Two
+Seven=Three
+Nine=Five
+it=is
+HPH=TAB
+HPHHPH=before
+They=this
+oooooooo=sentence
+iii=are
+dead=done
+EXIT=TABS

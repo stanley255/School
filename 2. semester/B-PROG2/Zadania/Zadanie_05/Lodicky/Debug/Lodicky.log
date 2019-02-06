@@ -1,0 +1,3 @@
+﻿  game.c
+c:\users\speka\desktop\prog2\zadania\zadanie_05\lodicky\lodicky\game.c(139): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Lodicky.vcxproj -> C:\Users\speka\Desktop\PROG2\Zadania\Zadanie_05\Lodicky\Debug\Lodicky.exe

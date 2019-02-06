@@ -1,0 +1,1 @@
+print(input('Zadaj: '), input('Zadaj: '))

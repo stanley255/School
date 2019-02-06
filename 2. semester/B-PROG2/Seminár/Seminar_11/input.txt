@@ -1,0 +1,6 @@
+Ahoj!
+Toto je jednoduchy
+textovy
+subor :)
+Ktory ma
+aktualne 6 riadkov.

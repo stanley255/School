@@ -1,0 +1,5 @@
+﻿  Source.c
+c:\users\speka\desktop\prog2\seminar\seminar_08\project1\source.c(18): warning C4047: 'function': 'char *' differs in levels of indirection from 'char *[5]'
+c:\users\speka\desktop\prog2\seminar\seminar_08\project1\source.c(18): warning C4024: 'nacitajRetazec': different types for formal and actual parameter 1
+c:\users\speka\desktop\prog2\seminar\seminar_08\project1\source.c(12): warning C4716: 'nacitajRetazec': must return a value
+  Project1.vcxproj -> C:\Users\speka\Desktop\PROG2\Seminar\Seminar_08\Project1\Debug\Project1.exe

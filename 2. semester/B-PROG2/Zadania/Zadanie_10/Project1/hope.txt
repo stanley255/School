@@ -1,0 +1,35 @@
+END TIME:2.5.2018 8:32:51
+**********************************************************
+
+
+*****ZVITAZIL HRAC PLAYER_A*****
+
+
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Milan | 8 | 9 | 3 |   rogue |
+ 4 |       Karolina | 7 | 4 | 1 |  priest |
+ 5 |        Mikulas | 6 |10 | 2 |   rogue |
+
+---------PLAYER_A-va armada---------
+   Total damage dealt:  41
+   Pocet vojakov po bitke: 3
+
+---------PLAYER_B-va armada---------
+   Total damage dealt:  14
+   Pocet vojakov po bitke: 0
+
+Dalsie statistiky:
+   Celkovy pocet kol: 7
+   Najkratsie kolo(pocet tahov): 2
+   Najdlhsie kolo(pocet tahov): 15
+   
+Vojak, ktory vydrzal najviac kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas |-5 | 5 | 3 | warrior |
+   
+Vojak, ktory vydrzal najmenej kol:
+ ID|       MENO     | HP|ATT|DEF|    CLASS|
+-------------------------------------------
+ 3 |          Lukas |-5 | 5 | 3 | warrior |
