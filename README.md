@@ -1,6 +1,6 @@
 # FEI STU
 ## BACHELOR PROGRAM IN APPLIED INFORMATICS
-#
+
 Collection of school assignments and projects that I coded
 ## What I Learned
 * to think before writing a single line
