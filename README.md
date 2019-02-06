@@ -12,12 +12,12 @@ Collection of school assignments and projects that I coded
 
 ---
 ### First Semester
-* [B-PROG1]() - Python Course - basic algorithms, loops, conditions, etc.
+* [B-PROG1](https://github.com/stanley255/School/tree/master/1.%20semester/B-PROG1) - Python Course - basic algorithms, loops, conditions, etc.
 
 ### Second Semester
-* [B-API]() - Coumputer Architecture Course - main goal of this course was to show students how computers work ""under the hood", mainly by programming in C/C++ with use of in-line assembly
-* [B-PROG2]() - C Course - pointers, memory management, etc.
+* [B-API](https://github.com/stanley255/School/tree/master/2.%20semester/B-API) - Coumputer Architecture Course - main goal of this course was to show students how computers work ""under the hood", mainly by programming in C/C++ with use of in-line assembly
+* [B-PROG2](https://github.com/stanley255/School/tree/master/2.%20semester/B-PROG2) - C Course - pointers, memory management, etc.
 
 ### Third Semester
-* [B-MPPI]() - Embedded Systems Course - assembly and low level C
-* [B-PT]() - Programming Techniques Course - sorts, weighted graphs, code efficiency and basics of OOP
+* [B-MPPI](https://github.com/stanley255/School/tree/master/3.%20semester/B-MPPI) - Embedded Systems Course - assembly and low level C
+* [B-PT](https://github.com/stanley255/School/tree/master/3.%20semester/B-PT) - Programming Techniques Course - sorts, weighted graphs, code efficiency and basics of OOP
