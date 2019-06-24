@@ -1,0 +1,57 @@
+[System]
+Name='A'
+Type='mamdani'
+Version=2.0
+NumInputs=3
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='som'
+
+[Input1]
+Name='stupeň_znečistenia'
+Range=[0 100]
+NumMFs=4
+MF1='ziadne':'gbellmf',[16.66 2.5 0.2646]
+MF2='male':'gbellmf',[16.67 2.5 33.33]
+MF3='stredne':'gbellmf',[16.67 2.5 66.67]
+MF4='velke':'gbellmf',[16.66 2.5 100]
+
+[Input2]
+Name='množstvo'
+Range=[0 7]
+NumMFs=3
+MF1='male':'gbellmf',[1.458 2.5 -8.327e-17]
+MF2='stredne':'gbellmf',[1.458 2.5 3.5]
+MF3='velke':'gbellmf',[1.458 2.5 7]
+
+[Input3]
+Name='druh_znečistenia'
+Range=[0 100]
+NumMFs=3
+MF1='bez_mastnoty':'gbellmf',[20.84 2.5 -1.332e-15]
+MF2='stredne_mastne':'gbellmf',[20.83 2.5 49.74]
+MF3='velmi_mastne':'gbellmf',[20.84 2.5 100]
+
+[Output1]
+Name='dĺžka_prania'
+Range=[10 60]
+NumMFs=4
+MF1='kratky':'gbellmf',[8.334 2.5 10]
+MF2='stredny':'gbellmf',[8.334 2.5 26.67]
+MF3='dlhy':'gbellmf',[8.331 2.5 43.33]
+MF4='velmi_dlhy':'gbellmf',[8.335 2.5 60]
+
+[Rules]
+2 1 1, 1 (1) : 1
+3 2 2, 2 (1) : 1
+4 3 3, 4 (1) : 1
+3 3 3, 3 (1) : 1
+2 2 3, 2 (1) : 1
+3 3 3, 3 (1) : 1
+1 3 3, 3 (1) : 1
+-1 3 2, 2 (1) : 1
+-4 3 3, -1 (1) : 2

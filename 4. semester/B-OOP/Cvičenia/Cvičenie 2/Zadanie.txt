@@ -1,0 +1,9 @@
+Cie¾om cvièenia je pomocou OOP vytvori program, ktorı umoni zo základnıch komponentov posklada poèítaè.
+
+Vytvorte triedu, ktorá bude reprezentova poèítaè. V tejto triede je moné nastavova jednotlivé komponenty: Zdroj, procesor, základná doska, RAM, HDD. Trieda musí obsahova metódu turnOn(), ktorá skontroluje zostavu a:
+v prípade, e príkon jednotlivıch komponentov prekraèuje vıkon zdroja, tak metóda vypíše chybovú hlášku a informáciu o tom, ko¾ko wattov chıba na jeho spustenie.
+v prípade, e chıba niektorı z komponentov, tak metóda vypíše chybovú hlášku a informáciu o tom, ktoré komponenty chıbajú.
+inak metóda vypíše zoznam komponentov a hlášku o úspešnom spustení poèítaèa.
+Vytvorte jednotlivé triedy pre komponenty (zdroj, procesor, základná doska, RAM, HDD). Kadému komponentu navrhnite vhodné atribúty (napr. procesor: poèet jadier, vıkon, spotreba…).
+Kadı komponent má atribút príkon, ktorı je potrebnı pre správny chod komponentu (uloha1a)
+V main-e vytvorte objekt poèítaè a vyskladajte ho pomocou objektov (komponentov) a zapnite pomocou metódy turnOn().

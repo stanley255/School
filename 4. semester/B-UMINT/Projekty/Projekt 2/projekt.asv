@@ -1,0 +1,44 @@
+% Príklad na klasifikaciu vin
+clear
+load winequalityred
+
+% net=patternnet([40 40]);
+net=patternnet([70]);
+
+inputs = winedata(:,1:11)';
+labels = winedata(:,12)';
+outputs = getTrimmedOutputs(labels);
+inputs = normalizeInputs(inputs);
+
+% Výber rozdelenia
+net.divideFcn='dividerand'; % Náhodné rozdelenie
+
+net.divideParam.trainRatio=0.6; % Trénovacie dáta
+net.divideParam.valRatio=0.0;   % Valida?né dáta
+net.divideParam.testRatio=0.4;  % Testovacie dáta
+
+% Nastavenie parametrov trénovania
+net.trainParam.epochs = 1000;    % Maximálny po?et epoch
+net.trainParam.goal = 1e-6;      % Minimálna chybovos?
+net.trainParam.min_grad = 1e-9;  % Minimálny gradient
+net.trainParam.show = 5;
+
+% Trénovanie NS
+net=train(net,inputs,outputs); 
+
+% Simulácia výstupu NS
+outnetsim = sim(net,inputs);
+
+% Confusion
+confusion = confusion(outputs,outnetsim);
+plotconfusion(outputs,outnetsim);
+disp(strcat('Percentualna uspesnost:',num2str(100-confusion*100)));
+
+% err = (outnetsim - outputs);
+% SSE = sum(err.^2,'all');
+% MSE = SSE/length(outputs)
+% MAE = max((err).^2,[],'all')
+% MIN = min((err).^2,[],'all')
+
+% Testovanie pre jednotlive vzorky
+simEachRank(net,winedata);

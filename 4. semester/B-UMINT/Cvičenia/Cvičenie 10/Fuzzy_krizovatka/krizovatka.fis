@@ -1,0 +1,47 @@
+[System]
+Name='krizovatka'
+Type='mamdani'
+Version=2.0
+NumInputs=2
+NumOutputs=1
+NumRules=9
+AndMethod='min'
+OrMethod='max'
+ImpMethod='min'
+AggMethod='max'
+DefuzzMethod='centroid'
+
+[Input1]
+Name='pruh1'
+Range=[0 30]
+NumMFs=3
+MF1='malo':'trimf',[-12.5 0 12.5]
+MF2='stredne':'trimf',[2.5 15 27.5]
+MF3='vela':'trimf',[17.5 30 42.5]
+
+[Input2]
+Name='pruhy23'
+Range=[0 60]
+NumMFs=3
+MF1='malo':'trimf',[-25 0 25]
+MF2='stredne':'trimf',[5 30 55]
+MF3='vela':'trimf',[35 60 85]
+
+[Output1]
+Name='interval'
+Range=[2.5 30]
+NumMFs=3
+MF1='kratky':'trimf',[-8.958 2.5 13.96]
+MF2='stredny':'trimf',[4.792 16.25 27.71]
+MF3='dlhy':'trimf',[18.54 30 41.46]
+
+[Rules]
+1 1, 1 (1) : 1
+1 2, 1 (1) : 1
+1 3, 1 (1) : 1
+2 1, 2 (1) : 1
+2 2, 2 (1) : 1
+2 3, 2 (1) : 1
+3 1, 3 (1) : 1
+3 2, 3 (1) : 1
+3 3, 2 (1) : 1
