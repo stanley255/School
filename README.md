@@ -8,6 +8,8 @@ Collection of school assignments and projects that I coded
 * how to write more efficient code
 * how does sorting algorithms work
 * how to work with pointers and references
+* how to use OOP principles in programming
+* basics of AI, ML, Fuzzy,...
 * a lot of language specific features
 
 ---
@@ -21,3 +23,7 @@ Collection of school assignments and projects that I coded
 ### Third Semester
 * [B-MPPI](https://github.com/stanley255/School/tree/master/3.%20semester/B-MPPI) - Embedded Systems Course - assembly and low level C
 * [B-PT](https://github.com/stanley255/School/tree/master/3.%20semester/B-PT) - Programming Techniques Course - sorts, weighted graphs, code efficiency and basics of OOP
+
+### Fourth Semester
+* [B-OOP](https://github.com/stanley255/school/tree/master/4.%20semester/B-OOP) - Object Oriented Programming Course - OOP principles and Java basics
+* [B-UMINT](https://github.com/stanley255/school/tree/master/4.%20semester/B-UMINT) - AI Course - basics of AI, Machine Learning, Fuzzy systems,... (in MatLab)
