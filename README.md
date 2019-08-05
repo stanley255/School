@@ -3,7 +3,7 @@
 ## BACHELOR PROGRAM IN APPLIED INFORMATICS
 
 Collection of school assignments and projects that I coded
-## What I Learned
+## What I've Learned
 * to think before writing a single line
 * how to write more efficient code
 * how does sorting algorithms work
